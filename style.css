@@ -1,0 +1,15 @@
+img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.row{
+    padding-left: 50%;
+}
+
+#imgList{
+    filter: sepia(0);
+}
+
+/*hsl(var(--hue), var(--saturation), var(--lightness))*/
